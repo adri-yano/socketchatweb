@@ -20,4 +20,6 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 # socketchatweb
 chat between server and client using socket.
+or 
+A webchat between the client and server using socket
 
